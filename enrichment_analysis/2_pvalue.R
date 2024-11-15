@@ -1,0 +1,16 @@
+r=read.table('1_goenrichment_input',sep='\t')
+pvalue=c()
+orginpvalue=c()
+adj=c()
+adjpvalue=c()
+for(i in 1:length(r[,1])){
+	pvalue=format(1-phyper(r[i,4]-1,r[i,5],r[i,6]-r[i,5],r[i,7]),scientific=TRUE)
+	orginpvalue=c(orginpvalue,pvalue)
+}
+print(length(orginpvalue))
+adjpvalue=format(p.adjust(orginpvalue,method='bonferroni',n=length(r[,1])), scientific=TRUE)
+print(length(r))
+print(length(orginpvalue))
+print(length(adjpvalue))
+newdata=data.frame(r,orginpvalue,adjpvalue)
+write.table(newdata,'2_GO_pvalue',sep='\t',quote = FALSE,row.names = FALSE, col.names = FALSE)
