@@ -1,0 +1,6 @@
+type_of_cancer: mixed
+cancer_study_identifier: genie_public
+name: GENIE Cohort v13.1-public
+description: GENIE v13.1-public
+groups: GENIE;GENIEPUB
+short_name: genie (GENIE)
