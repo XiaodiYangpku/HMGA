@@ -1,0 +1,3 @@
+stable_id: YALE-OCP-V2
+description: YALE-OCP-V2, Number of Genes - 133
+gene_list:	BCOR	CEBPA	MYD88	SPOP	PALB2	ASXL1	CBL	ESR1	FGF19	NOTCH1	PBRM1
