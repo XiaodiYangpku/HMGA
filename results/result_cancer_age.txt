@@ -1,0 +1,29 @@
+Type	Disease	number_of_AYA	number_of_OA	Total
+Myeloid tumor	AML	323	1749	2072
+Myeloid tumor	MPN	89	691	781
+Myeloid tumor	MDS	43	858	901
+Lymphoid tumor	MTNN	15	65	80
+Myeloid tumor	CML	19	76	95
+Lymphoid tumor	BLL	258	130	388
+Myeloid tumor	MDS/MPN	4	70	74
+Myeloid tumor	CMML	9	159	168
+Lymphoid tumor	MYCF	13	81	94
+Lymphoid tumor	MBN	54	208	262
+Myeloid tumor	TMDS	7	78	85
+Lymphoid tumor	FL	18	151	169
+Myeloid tumor	Mastocytosis	8	15	23
+Lymphoid tumor	DLBCL	51	367	418
+Lymphoid tumor	CLL/SLL	8	307	315
+Lymphoid tumor	MCL	0	73	73
+Lymphoid tumor	PTCL	9	47	56
+Lymphoid tumor	NHL	3	40	43
+Lymphoid tumor	AITL	0	45	45
+Lymphoid tumor	TLL	54	21	75
+PC	PC	7	217	224
+Lymphoid tumor	MZL	1	25	26
+Lymphoid tumor	HL	21	22	43
+Lymphoid tumor	HCL	3	21	24
+Myeloid tumor	TAML	8	68	76
+MPAL	MPAL	8	22	30
+Myeloid tumor	BPDCN	1	21	22
+Lymphoid tumor	BCL	1	10	11

@@ -1,0 +1,28 @@
+Myeloid tumor	AML
+Myeloid tumor	MPN
+Myeloid tumor	MDS
+Myeloid tumor	CML
+Myeloid tumor	MDS/MPN
+Myeloid tumor	CMML
+Myeloid tumor	TMDS
+Myeloid tumor	Mastocytosis
+Myeloid tumor	TAML
+Myeloid tumor	BPDCN
+MPAL	MPAL
+PC	PC
+Lymphoid tumor	MTNN
+Lymphoid tumor	BLL
+Lymphoid tumor	MYCF
+Lymphoid tumor	MBN
+Lymphoid tumor	FL
+Lymphoid tumor	DLBCL
+Lymphoid tumor	CLL/SLL
+Lymphoid tumor	MCL
+Lymphoid tumor	PTCL
+Lymphoid tumor	NHL
+Lymphoid tumor	AITL
+Lymphoid tumor	TLL
+Lymphoid tumor	MZL
+Lymphoid tumor	HL
+Lymphoid tumor	HCL
+Lymphoid tumor	BCL

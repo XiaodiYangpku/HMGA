@@ -1,0 +1,151 @@
+Type	Subtype	Disease_abbr	Superior	Disease_detailed	
+Myeloid	BPDCN	BPDCN	BPDCN	Blastic Plasmacytoid Dendritic Cell Neoplasm	Blastic Plasmacytoid Dendritic Cell Neoplasm
+Myeloid	AML	AML	AML	Leukemia	Acute Myeloid Leukemia
+Myeloid	AML	AML-M3	APLPMLRARA	Leukemia	APL with PML-RARA
+Myeloid	AML	AML	AMLMRC	Leukemia	AML with Myelodysplasia-Related Changes
+Myeloid	AML	AML-M5	AMOL	Leukemia	Acute Monoblastic/Monocytic Leukemia
+Myeloid	TMDS	TMDS	TMDS	Leukemia	Therapy-Related Myelodysplastic Syndrome
+Myeloid	TAML	TAML	TAML	Leukemia	Therapy-Related Acute Myeloid Leukemia
+Myeloid	AML	AML-M4	AMML	Leukemia	Acute Myelomonocytic Leukemia
+Myeloid	AML	AML	AMLNPM1	Leukemia	AML with Mutated NPM1
+Myeloid	AML	AML	AMLRUNX1RUNX1T1	Leukemia	AML with t(8;21)(q22;q22.1);RUNX1-RUNX1T1
+Myeloid	AML	AML	AMLGATA2MECOM	Leukemia	AML with inv(3)(q21.3q26.2) or t(3;3)(q21.3;q26.2); GATA2, MECOM
+Myeloid	AML	AML	AMLBCRABL1	Leukemia	AML with BCR-ABL1
+Myeloid	AML	AML	AMLCBFBMYH11	Leukemia	AML with inv(16)(p13.1q22) or t(16;16)(p13.1;q22);CBFB-MYH11
+Myeloid	AML	AML	AWM	Leukemia	AML without Maturation
+Myeloid	AML	AML	AM	Leukemia	AML with Maturation
+Myeloid	AML	AML	AMLMD	Leukemia	AML with Minimal Differentiation
+Myeloid	AML	AML	AMLNOS	Leukemia	AML, NOS
+Myeloid	AML	AML	AMLRGA	Leukemia	AML with Recurrent Genetic Abnormalities
+Myeloid	AML	AML	AMLCEBPA	Leukemia	AML with Biallelic Mutations of CEBPA
+Myeloid	AML	AML	PERL	Leukemia	Pure Erythroid Leukemia
+Myeloid	AML	AML	AMLDEKNUP214	Leukemia	AML with t(6;9)(p23;q34.1);DEK-NUP214
+Myeloid	AML	AML	AMLMLLT3KMT2A	Leukemia	AML with t(9;11)(p21.3;q23.3);MLLT3-KMT2A
+Myeloid	AML	AML-M7	AMKL	Leukemia	Acute Megakaryoblastic Leukemia
+Myeloid	AML	AML	AMLRUNX1	Leukemia	AML with Mutated RUNX1
+Myeloid	AML	AML	AMLRARA	Leukemia	AML with Variant RARA translocation
+Myeloid	CML	CML	CML	Myeloproliferative Neoplasms	Chronic Myelogenous Leukemia
+Myeloid	CML	CML	CMLBCRABL1	Myeloproliferative Neoplasms	Chronic Myeloid Leukemia, BCR-ABL1+
+Myeloid	CML	CNL	CNL	Myeloproliferative Neoplasms	Chronic Neutrophilic Leukemia
+Myeloid	CML	CEL	CELNOS	Myeloproliferative Neoplasms	Chronic Eosinophilic Leukemia, NOS
+Myeloid	CMML	CMML	CMML	Myelodysplastic/Myeloproliferative Neoplasms	Chronic Myelomonocytic Leukemia
+Myeloid	CMML	CMML-2	CMML2	Myelodysplastic/Myeloproliferative Neoplasms	Chronic Myelomonocytic Leukemia-2
+Myeloid	CMML	CMML-0	CMML0	Myelodysplastic/Myeloproliferative Neoplasms	Chronic Myelomonocytic Leukemia-0
+Myeloid	CMML	CMML-1	CMML1	Myelodysplastic/Myeloproliferative Neoplasms	Chronic Myelomonocytic Leukemia-1
+Myeloid	MDS/MPN	ACML	ACML	Myelodysplastic/Myeloproliferative Neoplasms	Atypical Chronic Myeloid Leukemia, BCR-ABL1-
+Myeloid	MDS/MPN	JMML	JMML	Myelodysplastic/Myeloproliferative Neoplasms	Juvenile Myelomonocytic Leukemia
+Myeloid	MDS	MDS	MDS	Myelodysplastic Syndromes	Myelodysplastic Syndromes
+Myeloid	MDS	MDS-EB1	MDSEB1	Myelodysplastic Syndromes	MDS with excess blasts-1
+Myeloid	MDS	MDS-EB2	MDSEB2	Myelodysplastic Syndromes	MDS with excess blasts-2
+Myeloid	MDS	MDS-EB	MDSEB	Myelodysplastic Syndromes	MDS with Excess Blasts
+Myeloid	MDS	MDS	MDSRSMD	Myelodysplastic Syndromes	MDS with Ring Sideroblasts and Multilineage Dysplasia
+Myeloid	MDS	MDS	MDSMD	Myelodysplastic Syndromes	MDS with Multilineage Dysplasia
+Myeloid	MDS	MDS	MDSRS	Myelodysplastic Syndromes	MDS with Ring Sideroblasts
+Myeloid	MDS	MDS	MDSID5Q	Myelodysplastic Syndromes	MDS with Isolated Del(5q)
+Myeloid	MDS	MDS	MDSSLD	Myelodysplastic Syndromes	MDS with Single Lineage Dysplasia
+Myeloid	MDS	MDS	MDSRSSLD	Myelodysplastic Syndromes	MDS with Ring Sideroblasts and Single Lineage Dysplasia
+Myeloid	MDS	MDS	MDSU	Myelodysplastic Syndromes	MDS, Unclassifiable
+Myeloid	MPN	MPN	MPN	Myeloproliferative Neoplasms	Myeloproliferative Neoplasms
+Myeloid	MPN	MPN	PMFPES	Myeloproliferative Neoplasms	Primary Myelofibrosis, Prefibrotic/Early Stage
+Myeloid	MPN	MPN	MPNU	Myeloproliferative Neoplasms	Myeloproliferative Neoplasms, Unclassifiable
+Myeloid	MPN	PVMF	PVMF	Myeloproliferative Neoplasms	Polycythaemia Vera Myelofibrosis
+Myeloid	MPN	PMF	PMF	Myeloproliferative Neoplasms	Primary Myelofibrosis
+Myeloid	MPN	ETMF	ETMF	Myeloproliferative Neoplasms	Essential Thrombocythemia Myelofibrosis
+Myeloid	MPN	PV	PV	Myeloproliferative Neoplasms	Polycythemia Vera
+Myeloid	MPN	ET	ET	Myeloproliferative Neoplasms	Essential Thrombocythemia
+Myeloid	MPN	PMF	PMFOFS	Myeloproliferative Neoplasms	Primary Myelofibrosis,Overt Fibrotic Stage
+Myeloid	MDS/MPN	MDS/MPN	MDSMPNRST	Myelodysplastic/Myeloproliferative Neoplasms	MDS/MPN with Ring Sideroblasts and Thrombocytosis
+Myeloid	MDS/MPN	MDS/MPN	MDSMPNU	Myelodysplastic/Myeloproliferative Neoplasms	MDS/MPN, Unclassifiable
+Myeloid	MDS/MPN	MDS/MPN	MDS/MPN	Myelodysplastic/Myeloproliferative Neoplasms	Myelodysplastic/Myeloproliferative Neoplasms
+Myeloid	Mastocytosis	Mastocytosis	SM	Mastocytosis	Systemic Mastocytosis
+Myeloid	Mastocytosis	Mastocytosis	ISM	Mastocytosis	Indolent Systemic Mastocytosis
+Myeloid	Mastocytosis	Mastocytosis	SMAHN	Mastocytosis	Systemic Mastocytosis with an Associated Hematological Neoplasm
+Myeloid	Mastocytosis	Mastocytosis	MCSL	Mastocytosis	Mast Cell Sarcoma
+Myeloid	Mastocytosis	Mastocytosis	MCD	Mastocytosis	Mastocytosis
+Myeloid	Mastocytosis	Mastocytosis	ASM	Mastocytosis	Aggressive Systemic Mastocytosis
+Myeloid	Mastocytosis	Mastocytosis	SMMCL	Mastocytosis	Mast Cell Leukemia
+Myeloid	MS	MS	MS	Leukemia	Myeloid Sarcoma
+Lymphoid	HL	HL	CHL	Hodgkin Lymphoma	Classical Hodgkin Lymphoma
+Lymphoid	HL	HL	HL	Hodgkin Lymphoma	Hodgkin Lymphoma
+Lymphoid	HL	HL	NLPHL	Hodgkin Lymphoma	Nodular Lymphocyte-Predominant Hodgkin Lymphoma
+Lymphoid	HL	HL	NSCHL	Hodgkin Lymphoma	Nodular Sclerosis Classical Hodgkin Lymphoma
+Lymphoid	HL	HL	MCCHL	Hodgkin Lymphoma	Mixed Cellularity Classical Hodgkin Lymphoma
+Lymphoid	NHL	NHL	NHL	Non-Hodgkin Lymphoma	Non-Hodgkin Lymphoma
+Lymphoid	NHL	NHL	TLYM	Non-Hodgkin Lymphoma	Testicular Lymphoma
+Lymphoid	FL	FL	FL	Mature B-Cell Neoplasms	Follicular Lymphoma
+Lymphoid	DLBCL	DLBCL	DLBCLNOS	Mature B-Cell Neoplasms	Diffuse Large B-Cell Lymphoma, NOS
+Lymphoid	MCL	MCL	MCL	Mature B-Cell Neoplasms	Mantle Cell Lymphoma
+Lymphoid	MBN	MBN	MBN	Mature B-Cell Neoplasms	Mature B-Cell Neoplasms
+Lymphoid	MBN	WM	WM	Mature B-Cell Neoplasms	Waldenstrom Macroglobulinemia
+Lymphoid	MZL	MZL	MZL	Mature B-Cell Neoplasms	Marginal Zone Lymphoma
+Lymphoid	MBN	PMBL	PMBL	Mature B-Cell Neoplasms	Primary Mediastinal (Thymic) Large B-Cell Lymphoma
+Lymphoid	HCL	HCL	HCL	Mature B-Cell Neoplasms	Hairy Cell Leukemia
+Lymphoid	MBN	PEL	PEL	Mature B-Cell Neoplasms	Primary Effusion Lymphoma
+Lymphoid	MBN	BL	BL	Mature B-Cell Neoplasms	Burkitt Lymphoma
+Lymphoid	MBN	EMALT	EMALT	Mature B-Cell Neoplasms	Extranodal Marginal Zone Lymphoma of Mucosa-Associated Lymphoid Tissue (MALT lymphoma)
+Lymphoid	MBN	DLBCL	PCNSL	Mature B-Cell Neoplasms	Primary DLBCL of the central nervous system
+Lymphoid	MBN	SMZL	SMZL	Mature B-Cell Neoplasms	Splenic Marginal Zone Lymphoma
+Lymphoid	BCL	BCL	HGBCLMYCBCL2	Mature B-Cell Neoplasms	High-Grade B-Cell Lymphoma, with MYC and BCL2 and/or BCL6 Rearrangements
+Lymphoid	BCL	LBCL	THRLBCL	Mature B-Cell Neoplasms	T-Cell/Histiocyte-Rich Large B-Cell Lymphoma
+Lymphoid	DLBCL	DLBCL	EBVDLBCLNOS	Mature B-Cell Neoplasms	EBV Positive DLBCL, NOS
+Lymphoid	BCL	MCBCL	MCBCL	Mature B-Cell Neoplasms	Monoclonal B-Cell Lymphocytosis
+Lymphoid	MBN	LPL	LPL	Mature B-Cell Neoplasms	Lymphoplasmacytic Lymphoma
+Lymphoid	BCL	BCL	HGBCL	Mature B-Cell Neoplasms	High-Grade B-Cell Lymphoma, NOS
+Lymphoid	DLBCL	DLBCL	ABC	Mature B-Cell Neoplasms	Activated B-cell Type
+Lymphoid	DLBCL	DLBCL	GCB	Mature B-Cell Neoplasms	Germinal Center B-Cell Type
+Lymphoid	MBN	MGUS	MGUS	Mature B-Cell Neoplasms	Monoclonal Gammopathy of Undetermined Significance
+Lymphoid	DLBCL	DLBCL	PCLBCLLT	Mature B-Cell Neoplasms	Primary Cutaneous DLBCL, Leg Type
+Lymphoid	MBN	BLL	BLL11Q	Mature B-Cell Neoplasms	Burkitt-Like Lymphoma with 11q Aberration
+Lymphoid	MBN	PCFCL	PCFCL	Mature B-Cell Neoplasms	Primary Cutaneous Follicle Center Lymphoma
+Lymphoid	MBN	BPLL	BPLL	Mature B-Cell Neoplasms	B-Cell Prolymphocytic Leukemia
+Lymphoid	BCL	LBCL	ALKLBCL	Mature B-Cell Neoplasms	ALK Positive Large B-Cell Lymphoma
+Lymphoid	BCL	BCL	BCLU	Mature B-Cell Neoplasms	B-Cell Lymphoma, Unclassifiable, with Features Intermediate between DLBCL and Classical Hodgkin lymphoma
+Lymphoid	MBN	NMZL	NMZL	Mature B-Cell Neoplasms	Nodal Marginal Zone Lymphoma
+Lymphoid	MBN	LBCL	IVBCL	Mature B-Cell Neoplasms	Intravascular Large B-Cell Lymphoma
+Lymphoid	MTNN	TPLL	TPLL	Mature T and NK Neoplasms	T-Cell Prolymphocytic Leukemia
+Lymphoid	PTCL	PTCL	PTCL	Mature T and NK Neoplasms	Peripheral T-Cell lymphoma, NOS
+Lymphoid	AITL	AITL	AITL	Mature T and NK Neoplasms	Angioimmunoblastic T-Cell Lymphoma
+Lymphoid	MYCF	MYCF	MYCF	Mature T and NK Neoplasms	Mycosis Fungoides
+Lymphoid	MTNN	MTNN	MTNN	Mature T and NK Neoplasms	Mature T and NK Neoplasms
+Lymphoid	MTNN	ALCL	ALCL	Mature T and NK Neoplasms	Anaplastic Large Cell Lymphoma
+Lymphoid	MTNN	TLGL	TLGL	Mature T and NK Neoplasms	T-Cell Large Granular Lymphocytic Leukemia
+Lymphoid	MTNN	SS	SS	Mature T and NK Neoplasms	Sezary Syndrome
+Lymphoid	MTNN	ATLL	ATLL	Mature T and NK Neoplasms	Adult T-Cell Leukemia/Lymphoma
+Lymphoid	MTNN	PCGDTCL	PCGDTCL	Mature T and NK Neoplasms	Primary Cutaneous Gamma Delta T-Cell Lymphoma
+Lymphoid	MTNN	BIALCL	BIALCL	Mature T and NK Neoplasms	Breast Implant-Associated Anaplastic Large-Cell Lymphoma
+Lymphoid	MTNN	PCAECTCL	PCAECTCL	Mature T and NK Neoplasms	Primary Cutaneous CD8 Positive Aggressive Epidermotropic Cytotoxic T-Cell Lymphoma
+Lymphoid	MTNN	HSTCL	HSTCL	Mature T and NK Neoplasms	Hepatosplenic T-cell Lymphoma
+Lymphoid	MTNN	ALCLALKN	ALCLALKN	Mature T and NK Neoplasms	Anaplastic Large-Cell Lymphoma ALK Negative
+Lymphoid	MTNN	MEITL	MEITL	Mature T and NK Neoplasms	Monomorphic Epitheliotropic Intestinal T-Cell Lymphoma
+Lymphoid	MTNN	ALCL	ALCLALKP	Mature T and NK Neoplasms	Anaplastic Large-Cell Lymphoma ALK Positive
+Lymphoid	MTNN	ENKL	ENKL	Mature T and NK Neoplasms	Extranodal NK-/T-Cell Lymphoma, Nasal Type
+Lymphoid	MTNN	CLPDNK	CLPDNK	Mature T and NK Neoplasms	Chronic Lymphoproliferative Disorder of NK Cells
+Lymphoid	MTNN	PCLPD	PCSMTPLD	Mature T and NK Neoplasms	Primary Cutaneous CD4 Positive Small/Medium T-Cell Lymphoproliferative Disorder
+Lymphoid	MTNN	PCLPD	PCLPD	Mature T and NK Neoplasms	Primary Cutaneous CD30 Positive T-Cell Lymphoproliferative Disorders
+Lymphoid	MTNN	NPTL	NPTLTFH	Mature T and NK Neoplasms	Nodal Peripheral T-Cell Lymphoma with TFH Phenotype
+Lymphoid	MTNN	FTCL	FTCL	Mature T and NK Neoplasms	Follicular T-Cell Lymphoma
+Lymphoid	MTNN	ANKL	ANKL	Mature T and NK Neoplasms	Aggressive NK-Cell Leukemia
+Lymphoid	TLL	TLL	TLL	T-Lymphoblastic Leukemia/Lymphoma	T-Lymphoblastic Leukemia/Lymphoma
+Lymphoid	TLL	TLL	ETPLL	T-Lymphoblastic Leukemia/Lymphoma	Early T-Cell Precursor Lymphoblastic Leukemia
+Lymphoid	TLL	TLL	NKCLL	T-Lymphoblastic Leukemia/Lymphoma	Natural Killer (NK) Cell Lymphoblastic Leukemia/Lymphoma
+Lymphoid	BLL	BLL	BLLNOS	B-Lymphoblastic Leukemia/Lymphoma	B-Lymphoblastic Leukemia/Lymphoma, NOS
+Lymphoid	BLL	BLL	BLL	B-Lymphoblastic Leukemia/Lymphoma	B-Lymphoblastic Leukemia/Lymphoma
+Lymphoid	BLL	BLL	BLLBCRABL1	B-Lymphoblastic Leukemia/Lymphoma	B-Lymphoblastic Leukemia/Lymphoma with t(9;22)(q34.1;q11.2);BCR-ABL1
+Lymphoid	BLL	BLL	BLLHYPER	B-Lymphoblastic Leukemia/Lymphoma	B-Lymphoblastic Leukemia/Lymphoma with Hyperdiploidy
+Lymphoid	BLL	BLL	BLLHYPO	B-Lymphoblastic Leukemia/Lymphoma	B-Lymphoblastic Leukemia/Lymphoma with Hypodiploidy
+Lymphoid	BLL	BLL	BLLKMT2A	B-Lymphoblastic Leukemia/Lymphoma	B-Lymphoblastic Leukemia/Lymphoma with t(v;11q23.3);KMT2A Rearranged
+Lymphoid	BLL	BLL	BLLTCF3PBX1	B-Lymphoblastic Leukemia/Lymphoma	B-Lymphoblastic Leukemia/Lymphoma with t(1;19)(q23;p13.3);TCF3-PBX1
+Lymphoid	BLL	BLL	BLLRGA	B-Lymphoblastic Leukemia/Lymphoma	B-Lymphoblastic Leukemia/Lymphoma with Recurrent Genetic Abnormalities
+Lymphoid	BLL	BLL	BLLETV6RUNX1	B-Lymphoblastic Leukemia/Lymphoma	B-Lymphoblastic Leukemia/Lymphoma with t(12;21)(p13.2;q22.1); ETV6-RUNX1
+Lymphoid	BLL	BLL	BLLBCRABL1L	B-Lymphoblastic Leukemia/Lymphoma	B-Lymphoblastic Leukemia/Lymphoma, BCR-ABL1 Like
+Lymphoid	BLL	BLL	BLLIAMP21	B-Lymphoblastic Leukemia/Lymphoma	B-Lymphoblastic Leukemia/Lymphoma with iAMP21
+Lymphoid	CLL/SLL	CLL/SLL	CLLSLL	Mature B-Cell Neoplasms	Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma
+MPAL	MPAL	MPALBNOS	MPALBNOS	Leukemia	Mixed Phenotype Acute Leukemia, B/Myeloid, NOS
+MPAL	MPAL	MPALTNOS	MPALTNOS	Leukemia	Mixed Phenotype Acute Leukemia, T/Myeloid, NOS
+MPAL	MPAL	MPAL	MPALBCRABL1	Leukemia	Mixed Phenotype Acute Leukemia with t(9;22)(q34.1;q11.2); BCR-ABL1
+MPAL	MPAL	MPAL	MPALKMT2A	Leukemia	Mixed Phenotype Acute Leukemia with t(v;11q23.3); KMT2A Rearranged
+PC	PC	PCM	PCM	Mature B-Cell Neoplasms	Plasma Cell Myeloma
+PC	PC	EP	EP	Mature B-Cell Neoplasms	Extraosseous Plasmacytoma
+PC	PC	PLBL	PLBL	Mature B-Cell Neoplasms	Plasmablastic Lymphoma
+PC	PC	MIDDA	MIDDA	Mature B-Cell Neoplasms	Amyloidosis
+PC	PC	SPB	SPB	Mature B-Cell Neoplasms	Solitary Plasmacytoma of Bone
